@@ -62,5 +62,5 @@ If you still have time, you can explore the following topics:
 
 # Submission Guidelines
 
-Nothing to submit in this first lab!
+To be determined at the end of the lab!
 
