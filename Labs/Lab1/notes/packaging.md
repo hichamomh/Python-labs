@@ -10,16 +10,6 @@
 As mentioned on the [official documentation of `setuptools`](https://setuptools.pypa.io/en/latest/userguide/quickstart.html#resources-on-python-packaging)
 > Packaging in Python is hard. Here we provide a list of links for those that want to learn more.
 
-Nevertheless, the way was already paved for you
-
-- [`src/`](../src/) structure
-- [`setup.cfg`](../setup.cfg), [`pyproject.toml`](../pyproject.toml), [`setup.py`](../setup.py) files
-- [`README.md`](../README.md) and [`License`](../LICENSE) files
-
-However, the project is currently made of the packages `lab1`, `lab2`, ... which can be imported  using `from/import labX ...` (when the sdia-python virtual environment is activated).
-This may conflict with another course where you may also want to import the corresponding `lab*` files.
-
-- Wouldn't it be clearer to import them using `from/import sdia_python.labX ...` instead?
 - How about we turn the project into a real Python package, so that you can share your project using  a command like `pip install your-package-name`?
 
 See also
