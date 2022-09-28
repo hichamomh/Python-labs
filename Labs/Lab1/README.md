@@ -10,7 +10,7 @@ Follow the instructions in [here](notes/command-line.md)
 
 - Practise the exercises in [here](notes/version-control.md)
 
-After finishing, [Fork](https://github.com/guilgautier/sdia-python/fork) the original repository.
+After finishing, [Fork](https://github.com/achraf-azize/python_sdia/fork) the original repository.
 
 > A [fork](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/about-forks) is a copy of a repository that you manage.
 > Forks let you make changes to a project without affecting the original repository.
