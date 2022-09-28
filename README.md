@@ -21,9 +21,10 @@ Please read carefully before submitting!
 
 - Git and Github basics;
 - Using an IDE (Vscode);
-- configure, structure and develop a Python project;
-- refreshers about Python programming;
-- useful Python references.
+- Configure, structure and develop a Python project;
+- Refreshers about Python programming;
+- Unit-tests and Documentation;
+- Useful Python references.
 
 **Remark**: Make sure you are familiar with all the elements covered in this lab. These will be repeatedly used throughout this course.
 
