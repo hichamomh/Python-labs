@@ -14,7 +14,7 @@ After finishing, [Fork](https://github.com/achraf-azize/python_sdia/fork) the or
 
 > A [fork](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/about-forks) is a copy of a repository that you manage.
 > Forks let you make changes to a project without affecting the original repository.
-> You can fetch updates from or submit changes to the original repository with [Pull Requests (PRs)](https://github.com/guilgautier/sdia-python/pulls).
+> You can fetch updates from or submit changes to the original repository with [Pull Requests (PRs)](https://github.com/achraf-azize/python_sdia/pulls).
 
 1. [Fork](https://github.com/achraf-azize/python_sdia/fork)
 2. Clone the forked repo: `git clone https://github.com/<your-git-username>/python_sdia.git`
