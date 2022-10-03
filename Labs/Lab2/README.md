@@ -18,4 +18,22 @@ Your aswers will be evaluated depending on:
 
 ## Submission Guidelines
 
-The dropbox file request, the exact format and the deadline will be announced in the next session (session 3)
+You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with your solutions, containing:
+
+- The notebook LAST_NAME1-LAST_NAME1-Lab2.ipynb with your solutions;
+- All the necessary files for the full execution of your notebook (.py files etc);
+- All .py files for unit tests and .npy and .hdf5 for saving vectors;
+- A few .png files containing some of your results
+
+Please make sure that the size of your zip file is not larger than 5MB.
+
+The deadline is October 11, at 23:59, upload your zip file using this Dropbox file request:
+https://www.dropbox.com/request/KItj0fVJTl4iFcdbgRph
+
+## Late Policy
+
+Each day delay will result in -2 points (the labs are scored out of 20).
+
+
+
+
