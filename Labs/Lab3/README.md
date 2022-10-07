@@ -13,8 +13,7 @@ Figures produced should be clearly annotated (axis, title, legend whenever appro
 Your aswers will be evaluated depending on:
 1. Numerical correctness
 2. Implementation clarity (documentation, relevance of the comments)
-3. Unit-tests developed whenever appropriate (correctness, relevance)
-4. Answers to the questions and overall presentation of the Jupyter notebook.
+3. Answers to the questions and overall presentation of the Jupyter notebook.
 
 ## Submission Guidelines
 
