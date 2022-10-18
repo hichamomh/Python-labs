@@ -18,7 +18,7 @@ Your aswers will be evaluated depending on:
 
 ## Submission Guidelines
 
-You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with your solutions.
+You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab4.zip with your solutions.
 
 The deadline is October 25, at 23:59, upload your jupyter notebook using this Dropbox file request:
 [https://www.dropbox.com/request/2DyLKfViQzwWYMvUUYgZ](https://www.dropbox.com/request/5I5HAknCRnXI0JK3uWN1)
