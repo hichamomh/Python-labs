@@ -17,7 +17,7 @@ Your aswers will be evaluated depending on:
 
 ## Submission Guidelines
 
-You will have to submit just the notebook named LAST_NAME1-LAST_NAME1-Lab2.ipnyb with your solutions.
+You will have to submit just the notebook named LAST_NAME1-LAST_NAME1-Lab3.ipnyb with your solutions.
 
 The deadline is October 14, at 23:59, upload your jupyter notebook using this Dropbox file request:
 https://www.dropbox.com/request/2DyLKfViQzwWYMvUUYgZ
