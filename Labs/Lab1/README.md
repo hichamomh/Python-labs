@@ -1,3 +1,5 @@
+All the tutorials in this lab are borrowed from Guillaume Gautier's course: https://github.com/guilgautier/sdia-python
+
 # Lab1 - Objectives
 
 ## Command Line Basics 
