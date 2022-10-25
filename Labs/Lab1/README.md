@@ -1,4 +1,6 @@
-All the tutorials in this lab are borrowed from Guillaume Gautier's course: https://github.com/guilgautier/sdia-python
+All the tutorials in this lab are borrowed from Guillaume Gautier's course: https://github.com/guilgautier/sdia-python.
+
+In particular, the [notes](notes/) folder is completely taken from his course.
 
 # Lab1 - Objectives
 
