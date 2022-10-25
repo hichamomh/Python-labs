@@ -4,7 +4,7 @@ This is the official repository of the Python Course, for students enrolled in [
 
 The material is inspired and/or borrowed from courses previously given by:
 
-- [Guillaume Gautier](https://guilgautier.github.io/) at [Ecole Centrale de Lille - Data Science and Artificial Intelligence (SDIA)](http://pierrechainais.ec-lille.fr/Centrale/Option_DAD/Accueil.html), and
+- [Guillaume Gautier](https://guilgautier.github.io/) at [Ecole Centrale de Lille - Data Science and Artificial Intelligence (SDIA)](http://pierrechainais.ec-lille.fr/Centrale/Option_DAD/Accueil.html). Link to the GitHub repository of the his course: https://github.com/guilgautier/sdia-python , and
 - [Pierre-Antoine Thouvenin](https://pthouvenin.github.io/) at [Université de Lille - M1 Data Science](https://www.univ-lille.fr/formations/fr-00020709.html)
 
 # Lab Schedule
