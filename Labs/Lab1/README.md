@@ -73,7 +73,6 @@ Please make sure that the size of your zip file is not larger than 5MB.
 The deadline is October 2, upload your zip file using this OneDrive file request:
 https://centralelille-my.sharepoint.com/:f:/g/personal/guilherme_espindola_centralelille_fr/Emx8x7dIMGJImOyxi46MtToBkB1hbIXk1LhM6fGQOkZBOQ
 
-## Late Policy
+## Will this TD be evaluated ?
 
-Each day delay will result in -2 points (the labs are scored out of 20).
-
+This TD will be evaluated with TD2. 
