@@ -1,6 +1,6 @@
 # SDIA - Python
 
-This is the official repository of the Python Course, for students enrolled in [Parcours DATA - Science des Données et Intelligence Artificielle (SDIA)](http://pierrechainais.ec-lille.fr/Centrale/Option_DAD/Accueil.html) at [Ecole Centrale de Lille](https://centralelille.fr/).
+This is the official repository of the Python Course, for students enrolled in [Parcours DATA - Science des Données et Intelligence Artificielle (SDIA)](http://pierrechainais.ec-lille.fr/Centrale/Option_DAD/Accueil.html) at [Ecole Centrale de Lille](https://centralelille.fr/). It was `forked` from [Achraf Azize](https://github.com/achraf-azize/python_sdia). 
 
 The material is inspired and/or borrowed from courses previously given by:
 
