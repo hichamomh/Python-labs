@@ -66,5 +66,14 @@ If you still have time, you can explore the following topics:
 
 # Submission Guidelines
 
-To be determined at the end of the lab!
+Submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip containing Lab1's Jupyter notebook (LAST_NAME1-LAST_NAME1-Lab2.ipynb).
+
+Please make sure that the size of your zip file is not larger than 5MB.
+
+The deadline is October 2, upload your zip file using this OneDrive file request:
+https://centralelille-my.sharepoint.com/:f:/g/personal/guilherme_espindola_centralelille_fr/Emx8x7dIMGJImOyxi46MtToBkB1hbIXk1LhM6fGQOkZBOQ
+
+## Late Policy
+
+Each day delay will result in -2 points (the labs are scored out of 20).
 
