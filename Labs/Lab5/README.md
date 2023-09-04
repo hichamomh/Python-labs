@@ -19,8 +19,8 @@ Your aswers will be evaluated depending on:
 
 You will have to submit a .zip file named LAST_NAME1-LAST_NAME2-Lab5.zip with your solutions.
 
-The deadline is November 1th, at 23:59, upload your jupyter notebook using this Dropbox file request:
-https://www.dropbox.com/request/ett7W9VkvYEa7tVonB3k
+The deadline is November 23 upload your jupyter notebook using this OneDrive file request:
+https://centralelille-my.sharepoint.com/:f:/g/personal/guilherme_espindola_centralelille_fr/EttMObJMM8dEpwAJjwX9o9wBo2S-1IUZKtteiwXBDYwfWw
 
 ## Late Policy
 
