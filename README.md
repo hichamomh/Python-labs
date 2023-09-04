@@ -44,7 +44,7 @@ Please read carefully before submitting!
 
 **Objectives**: Few parallelisation techniques in Python (multiprocessing, dask).
 
-## Lab 6 - Scraping the web with urllib3 and beautifulsoup (~2h) (TBC)
+## Lab Extra 6 - Scraping the web with urllib3 and beautifulsoup (~2h)
 
 **Objectives**: Python libraries to crawl the web to collect data automatically (with urllib3 and Beautiful Soup).
 
