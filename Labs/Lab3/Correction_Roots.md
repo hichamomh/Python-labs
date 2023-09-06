@@ -4,12 +4,12 @@ Correction (**here $W_{n-1}$ takes the place of $\vec{A}$ and $\vec{B}$ the plac
 
 Let $n \in \mathbb{N}^{\star}$ such that $W_n$ is out of $\mathcal{B}(\mathbf{0}, 1)$.  The intersection $W^*$ of the line segment $[W_{n-1}, W_{n}]$ with $\mathcal{B}(\mathbf{0}, 1)$ thus verifies
 
-\begin{equation}
+$$
     \begin{cases}
-        W^* &= \alpha W_{n-1} + (1-\alpha) W_{n}, \; \alpha \in [0, 1] \\
-        \Vert W^* \Vert_2 &= 1,
+        W^{\star} &= \alpha W_{n-1} + (1-\alpha) W_{n}, \; \alpha \in [0, 1] \\
+        \Vert W^{\star} \Vert_2 &= 1,
     \end{cases}
-\end{equation}
+$$
 
 > Recall:
 > - The Euclidean norm ($l^2$-norm) of $W^*$ is computed as $\sqrt{\langle W^*, W^* \rangle}$ which is equal to $\sqrt{ {W^*}^T  W^*} $ where ${W^*}^T  W^*= \Vert W^* \Vert^2$. Finally, **${W^*}^T  W^* = 1$**. 
