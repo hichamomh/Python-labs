@@ -1,5 +1,3 @@
-# Finding the expression for $W^*$ :
-
 Correction (**here $W_{n-1}$ takes the place of $\vec{A}$ and $\vec{B}$ the place of $W_{n}$**):
 
 Let $n \in \mathbb{N}^*$ such that $W_n$ is out of $\mathcal{B}(\mathbf{0}, 1)$.  The intersection $W^*$ of the line segment $[W_{n-1}, W_{n}]$ with $\mathcal{B}(\mathbf{0}, 1)$ thus verifies
