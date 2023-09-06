@@ -38,8 +38,6 @@ $$
     
     $$\alpha^* = \frac{- 2 \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\Delta}}{2 \Vert W_{n-1} - W_n \Vert^2} $$
     
-    and finally 
-    
   $$\alpha^* = \frac{- 2 \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\Delta}}{2 \Vert W_{n-1} - W_n \Vert^2}$$
 
 and $W^* = \alpha^* W_{n-1} + (1-\alpha^*) W_{n}$.
