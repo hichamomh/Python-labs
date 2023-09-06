@@ -16,12 +16,12 @@ $$
 > - $(\mathbf{v}+ \mathbf{w})^T(\mathbf{v}+ \mathbf{w})=(\mathbf{v}^T+ \mathbf{w}^T)(\mathbf{v}+ \mathbf{w})$ which is equal to $\mathbf{v}^T\mathbf{v}+\mathbf{v}^T\mathbf{w}+\mathbf{w}^T\mathbf{v} + \mathbf{w}^T \mathbf{w}$. From the fact that $\mathbf{v}^T\mathbf{w}=\mathbf{w}^T\mathbf{v}$ we get the final expression $$(\mathbf{v}+ \mathbf{w})^T(\mathbf{v}+ \mathbf{w})=\mathbf{v}^T\mathbf{v}+2\mathbf{v}^T\mathbf{w}+\mathbf{w}^T \mathbf{w}$$
 
 Let us consider that $\mathbf{v}= \alpha (W_{n-1}- W_{n})$ and $\mathbf{w}= W_{n}$. Then, 
-$$  \alpha^2 (W_{n-1}- W_{n})^T(W_{n-1}- W_{n})+ 2\alpha (W_{n-1}- W_{n})^T W_{n} + W_{n}^TW_{n} = 1$$
+$$  \alpha^{2} (W_{n-1}- W_{n})^T(W_{n-1}- W_{n})+ 2\alpha (W_{n-1}- W_{n})^T W_{n} + W_{n}^TW_{n} = 1$$
 resulting in the following 2nd order polynomial equation in $\alpha$:
 
-\begin{equation}
+$$
     p(\alpha) = \alpha^2 \Vert W_{n-1} - W_n \Vert^2  + 2\alpha \langle W_{n-1} - W_n, W_n \rangle + \Vert W_{n}\Vert^2 - 1 = 0, \, \text{for } \alpha \in [0,1].
-\end{equation}
+$$
 
 > Hint: 
 > - $p(\alpha) = c_2\alpha^2+ c_1 \alpha + c_0$
