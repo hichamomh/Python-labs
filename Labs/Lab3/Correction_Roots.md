@@ -6,7 +6,7 @@ Let $n \in \mathbb{N}^{\star}$ such that $W_n$ is out of $\mathcal{B}(\mathbf{0}
 
 $$
     \begin{cases}
-        W^{\star} &= \alpha W_{n-1} + (1-\alpha) W_{n}, \; \alpha \in [0, 1] \\
+        W^{\star} &= \alpha W_{n-1} + (1-\alpha) W_{n},~ \alpha \in [0, 1] \\
         \Vert W^{\star} \Vert_2 &= 1,
     \end{cases}
 $$
@@ -22,7 +22,7 @@ $$\alpha^{2} (W_{n-1}- W_{n})^{T} (W_{n-1}- W_{n})+ 2\alpha (W_{n-1}- W_{n})^{T}
 resulting in the following 2nd order polynomial equation in $\alpha$:
 
 $$
-    p(\alpha) = \alpha^2 \Vert W_{n-1} - W_n \Vert^2  + 2\alpha \langle W_{n-1} - W_n, W_n \rangle + \Vert W_{n}\Vert^2 - 1 = 0, \, \text{for } \alpha \in [0,1].
+    p(\alpha) = \alpha^2 \Vert W_{n-1} - W_n \Vert^2  + 2\alpha \langle W_{n-1} - W_n, W_n \rangle + \Vert W_{n}\Vert^2 - 1 = 0,~ \text{for } \alpha \in [0,1].
 $$
 
 > Hint: 
@@ -33,11 +33,15 @@ $$
 
 Thus,
 
-\begin{align*}
-    \Delta &= 4 \big[ \langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_n- W_{n-1} \Vert^2 \underbrace{(1-\Vert W_{n}\Vert^2)}_{>0} \big], \\
-    \alpha^* &= \frac{- 2 \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\Delta}}{2 \Vert W_{n-1} - W_n \Vert^2} \\
-    %
-    &= \frac{- \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_{n-1} - W_n\Vert^2 (1-\Vert W_{n}\Vert^2)}}{\Vert W_n- W_{n-1} \Vert^2},
-\end{align*}
+$$
+    \Delta = 4 \big[ \langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_n- W_{n-1} \Vert^2 \underbrace{(1-\Vert W_{n}\Vert^2)}_{>0} \big], $$
+    
+    $$
+    \alpha^* = \frac{- 2 \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\Delta}}{2 \Vert W_{n-1} - W_n \Vert^2} $$
+    
+    and finally 
+    
+   $$ \alpha^* = \frac{- \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_{n-1} - W_n\Vert^2 (1-\Vert W_{n}\Vert^2)}}{\Vert W_n- W_{n-1} \Vert^2},
+$$
 
 and $W^* = \alpha^* W_{n-1} + (1-\alpha^*) W_{n}$.
