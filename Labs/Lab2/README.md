@@ -16,6 +16,8 @@ Your aswers will be evaluated depending on:
 3. Unit-tests developed whenever appropriate (correctness, relevance)
 4. Answers to the questions and overall presentation of the Jupyter notebook.
 
+The recall on `Inner Product of Complex Matrices` is useful. Please read it [here](inner-product-of-complex-matrices.ipynb)
+
 ## Submission Guidelines
 
 You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with your solutions, containing:
