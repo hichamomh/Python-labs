@@ -12,7 +12,7 @@ $$
 $$
 
 > Recall:
-> - The Euclidean norm ($l^2$-norm) of $W^{\star}$ is computed as $\sqrt{\langle W^{\star}, W^{\star} \rangle}$ which is equal to $\sqrt{ {W^{\star}}^{T}  W^{\star}} $ where ${W^{\star}}^{T}  W^*= \Vert W^{\star} \Vert^2$. Finally, **${W^{\star}}^{T}  W^{\star} = 1$**. 
+> - The Euclidean norm ($l^2$-norm) of $W^{\star}$ is computed as $\sqrt{\langle W^{\star}, W^{\star} \rangle}$ which is equal to ${W^{\star}}^{T}  W^{\star}$ where ${W^{\star}}^{T}  W^*= \Vert W^{\star} \Vert^2$. Finally, **${W^{\star}}^{T}  W^{\star} = 1$**. 
 > - $(\mathbf{v}+ \mathbf{w})^T(\mathbf{v}+ \mathbf{w})=(\mathbf{v}^T+ \mathbf{w}^T)(\mathbf{v}+ \mathbf{w})$ which is equal to $\mathbf{v}^T\mathbf{v}+\mathbf{v}^T\mathbf{w}+\mathbf{w}^T\mathbf{v} + \mathbf{w}^T \mathbf{w}$. From the fact that $\mathbf{v}^T\mathbf{w}=\mathbf{w}^T\mathbf{v}$ we get the final expression $$(\mathbf{v}+ \mathbf{w})^T(\mathbf{v}+ \mathbf{w})=\mathbf{v}^T\mathbf{v}+2\mathbf{v}^T\mathbf{w}+\mathbf{w}^T \mathbf{w}$$
 
 Let us consider that $\mathbf{v}= \alpha (W_{n-1}- W_{n})$ and $\mathbf{w}= W_{n}$. Then, 
