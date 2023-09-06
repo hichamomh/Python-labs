@@ -35,9 +35,11 @@ Thus,
 
 $$
     \Delta = 4 \big[ \langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_n- W_{n-1} \Vert^2 \underbrace{(1-\Vert W_{n}\Vert^2)}_{>0} \big], $$
-    
-    $$\alpha^* = \frac{-2 \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\Delta}}{2 \Vert W_{n-1} - W_n \Vert^2}$$
+
+ Then   
     
   $$\alpha^* = \frac{- 2 \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\Delta}}{2 \Vert W_{n-1} - W_n \Vert^2}$$
+
+  which results in $\alpha^* = \frac{- \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_{n-1} - W_n\Vert^2 (1-\Vert W_{n}\Vert^2)}}{\Vert W_n- W_{n-1} \Vert^2}$
 
 and $W^* = \alpha^* W_{n-1} + (1-\alpha^*) W_{n}$.
