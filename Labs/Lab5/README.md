@@ -19,7 +19,7 @@ Your aswers will be evaluated depending on:
 
 You will have to submit a .zip file named LAST_NAME1-LAST_NAME2-Lab5.zip with your solutions.
 
-The deadline is October 23 upload your jupyter notebook on Moodle.
+The deadline is October 23, upload your jupyter notebook on Moodle.
 
 ## Late Policy
 
