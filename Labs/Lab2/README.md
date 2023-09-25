@@ -29,8 +29,7 @@ You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with yo
 
 Please make sure that the size of your zip file is not larger than 5MB.
 
-The deadline is October 2 upload your zip file using this OneDrive file request:
-https://centralelille-my.sharepoint.com/:f:/g/personal/guilherme_espindola_centralelille_fr/Es5_H6OCV8dJt5AnMjBACNoBonq1vGqnalJKZmGoeKBt3g
+The deadline is October 2 upload your zip file on Moodle.
 
 ## Late Policy
 
