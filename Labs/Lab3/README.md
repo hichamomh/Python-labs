@@ -19,8 +19,7 @@ Your aswers will be evaluated depending on:
 
 You will have to submit just the notebook named LAST_NAME1-LAST_NAME1-Lab3.ipnyb with your solutions.
 
-The deadline is October 6 upload your jupyter notebook using this OneDrive file request:
-https://centralelille-my.sharepoint.com/:f:/g/personal/guilherme_espindola_centralelille_fr/EnkB9bD7LUhJq1fQt15Qzh0BFrOuNCtulscEvdUKRovHyw
+The deadline is October 6 upload your jupyter notebook on Moodle.
 
 ## Late Policy
 
